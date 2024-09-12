@@ -19,7 +19,7 @@ print(CITY, COUNTRY)
 
 ## Work on paper
 
-![WhatsApp Image 2024-09-12 at 01.20.38.jpeg](WhatsApp%20Image%202024-09-12%20at%2001.20.38.jpeg)
+![WhatsApp Image 2024-09-12 at 3.01.29 PM.jpeg](WhatsApp%20Image%202024-09-12%20at%203.01.29%20PM.jpeg)
 *Fig.2* Quiz 072 Work on paper
 
 
